@@ -5,3 +5,6 @@ In this project we are deploying a react application. First, we are cloning the 
 Through Jenkins we would automate the CI/CD pipeline using GitHub webhook Jenkins would automatically build according to the recent commit history.
 
 The security group of the project is configured such a way that only the application could be viewed by anyone with the IP-address, other services and login to the machine could be done only with my ip-address.
+
+Deployed Ip-Address: http://15.207.98.144:80
+GitHub Url: https://github.com/cyril-doss14/Capstone-Project.git
